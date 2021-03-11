@@ -30,7 +30,7 @@ public class InstrumentFinanciar {
             for (Instrument i:lista) {
                 System.out.println(i.toString());
                 writer.write(i.toString());
-                writer.newLine(); // writer.write("\r\n");
+                writer.newLine();
             }
 
             writer.close();
@@ -57,9 +57,6 @@ public class InstrumentFinanciar {
                 Instrument local = new Instrument();
                 local.setSimbol(lineScanner.next());
                 local.setNume(lineScanner.next());
-
-//                String temp = lineScanner.next();
-//                local.setPret(Double.valueOf(temp));
 
                 local.setPret(lineScanner.nextDouble());
                 local.setStare(Status.valueOf(lineScanner.next()));

@@ -21,32 +21,16 @@ public class Instrument {
         this.stare = Status.NECUNOSCUT;
     }
 
-    public String getSimbol() {
-        return simbol;
-    }
-
     public void setSimbol(String simbol) {
         this.simbol = simbol;
-    }
-
-    public String getNume() {
-        return nume;
     }
 
     public void setNume(String nume) {
         this.nume = nume;
     }
 
-    public double getPret() {
-        return pret;
-    }
-
     public void setPret(double pret) {
         this.pret = pret;
-    }
-
-    public Status getStare() {
-        return stare;
     }
 
     public void setStare(Status stare) {
@@ -55,14 +39,8 @@ public class Instrument {
 
     @Override
     public String toString() {
-//        return "Instrument{" +
-//                "simbol='" + simbol + '\'' +
-//                ", nume='" + nume + '\'' +
-//                ", pret=" + pret +
-//                '}';
         return this.simbol + "," +
                 this.nume + "," +
-                Double.toString(this.pret) + "," +
                 stare.toString();
     }
 }
