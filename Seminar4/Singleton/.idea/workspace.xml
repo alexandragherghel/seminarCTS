@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13113322-28dc-4ecd-ba54-55ca9aa83f10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pw5CAnKH5SQMbp9tHipuDQ2BKI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ro/ase/cts/after" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ro.ase.cts.after.classes.logger" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexandra\Desktop\Seminar4\src\ro\ase\cts\after" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Seminar4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewMain" />
+      <module name="Seminar4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13113322-28dc-4ecd-ba54-55ca9aa83f10" name="Default Changelist" comment="" />
+      <created>1616081181741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616081181741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616083040406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="191" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1616083040406" />
+    <state x="766" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1616082351449">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="766" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1616082351449" />
+    <state width="597" height="126" key="GridCell.Tab.0.bottom" timestamp="1616087317850">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="597" height="126" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1616087317850" />
+    <state width="597" height="126" key="GridCell.Tab.0.center" timestamp="1616087317848">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="597" height="126" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1616087317848" />
+    <state width="597" height="126" key="GridCell.Tab.0.left" timestamp="1616087317847">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="597" height="126" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1616087317847" />
+    <state width="597" height="126" key="GridCell.Tab.0.right" timestamp="1616087317849">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="597" height="126" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1616087317849" />
+    <state x="181" y="0" key="new project wizard" timestamp="1616086418983">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="181" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1616086418983" />
+  </component>
+</project>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dd31887-07f1-42ff-bf7a-eb0cc104a93d" name="Default Changelist" comment="" />
+    <list default="true" id="2dd31887-07f1-42ff-bf7a-eb0cc104a93d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,5 +90,13 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="842" y="206" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1615482218054" />
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1616081137372">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1616081137372" />
+    <state x="91" y="0" key="new project wizard" timestamp="1616081181400">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1616081181400" />
   </component>
 </project>
